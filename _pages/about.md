@@ -12,10 +12,10 @@ I'm a third-year Ph.D. student in the [School of Computer Science](https://www.a
 
 ## Education
 
-- **Doctor of Philosophy (Ph.D.) in Artificial Intelligence**, University of Auckland, New Zealand, March 2024–September 2027 (expected)
-- **Master of Science (M.Sc.) in Artificial Intelligence**, University of Essex, United Kingdom, September 2020–November 2021
+- **Doctor of Philosophy (Ph.D.) in Artificial Intelligence**, University of Auckland, New Zealand, Mar 2024–Sep 2027 (expected)
+- **Master of Science (M.Sc.) in Artificial Intelligence**, University of Essex, United Kingdom, Sep 2020–Nov 2021
   - Graduated with Distinction
-- **Bachelor of Engineering (B.Eng.) in Computer Science and Technology**, Hebei University of Technology, China, September 2016–July 2020
+- **Bachelor of Engineering (B.Eng.) in Computer Science and Technology**, Hebei University of Technology, China, Sep 2016–Jul 2020
 
 ## Work Experience
 
@@ -23,9 +23,8 @@ I'm a third-year Ph.D. student in the [School of Computer Science](https://www.a
   - **Technical Advisor**, June 2026–present
 - **University of Auckland**, Auckland, New Zealand
   - **Graduate Teaching Assistant**, School of Computer Science, March 2025–present
-  - **Casual Research Assistant**, May 2024–present
-    - Conducting research in natural language processing, multimodal reasoning, computational humour, knowledge engineering, and AI agents.
-- **Algorithm Engineer**, East China Institute of Computer Technology, Shanghai, China, February 2022–March 2024
+  - **Casual Research Assistant**, May 2024–Jan 2025
+- **Algorithm Engineer**, East China Institute of Computer Technology, Shanghai, China, Feb 2022–Mar 2024
 
 ## Awards
 
