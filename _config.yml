@@ -24,13 +24,13 @@ repository               : "ysu132/yuchen"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yuchen Su"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ysu132@aucklanduni.ac.nz" 
 
   # Academic websites
   academia         : # URL
