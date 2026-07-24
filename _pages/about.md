@@ -12,7 +12,7 @@ I'm a third-year Ph.D. student in the [School of Computer Science](https://www.a
 
 ## Education
 
-- **Doctor of Philosophy (Ph.D.) in Artificial Intelligence**, University of Auckland, New Zealand, Mar 2024–Sep 2027 (expected)
+- **Doctor of Philosophy (Ph.D.) in Artificial Intelligence**, University of Auckland, New Zealand, Mar 2024–present
 - **Master of Science (M.Sc.) in Artificial Intelligence**, University of Essex, United Kingdom, Sep 2020–Nov 2021
   - Graduated with Distinction
 - **Bachelor of Engineering (B.Eng.) in Computer Science and Technology**, Hebei University of Technology, China, Sep 2016–Jul 2020
@@ -43,4 +43,4 @@ I'm a third-year Ph.D. student in the [School of Computer Science](https://www.a
 - **Nov 2025** — Our paper, “[Psychology-Driven Enhancement of Humour Translation]({{ site.baseurl }}/publication/2025-11-09-psychology-driven-humour-translation),” was accepted to ICONIP 2025.
 - **Nov 2025** — Our survey, “[A Survey of Pun Generation: Datasets, Evaluations and Methodologies]({{ site.baseurl }}/publication/2025-11-01-survey-of-pun-generation),” was accepted to Findings of EMNLP 2025.
 
-📧 Email: [your_email@aucklanduni.ac.nz](mailto:your_email@aucklanduni.ac.nz) / [Google Scholar](https://scholar.google.com/) / [GitHub](https://github.com/your-github) / [ORCID](https://orcid.org/) / [LinkedIn](https://linkedin.com/in/your-profile)
+📧 Email: [your_email@aucklanduni.ac.nz](mailto:your_email@aucklanduni.ac.nz) / [Google Scholar](https://scholar.google.com/citations?user=vRO9LyUAAAAJ&hl=zh-CN) / [GitHub](https://github.com/ysu132) / [ORCID](https://orcid.org/) / [LinkedIn](https://www.linkedin.com/in/yuchen-su-9b0385240/)
