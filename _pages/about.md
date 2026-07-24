@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a third-year Ph.D. student in the [School of Computer Science](https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-computer-science.html) at the [University of Auckland](https://www.auckland.ac.nz/), New Zealand. My research interests include natural language processing, multimodal reasoning, computational humour, pun understanding and generation, knowledge graph and model routing. I am fortunate to be supervised by [Prof. Michael Witbrock](https://profiles.auckland.ac.nz/m-witbrock) in the Strong AI Lab (SAIL), University of Auckland and [Prof. Diana Benavides-Prado](https://dianabenavidesprado.github.io/).
+I'm a third-year Ph.D. student in the [School of Computer Science](https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-computer-science.html) at the [University of Auckland](https://www.auckland.ac.nz/), New Zealand. My research interests include natural language processing, multimodal reasoning, computational humour, pun understanding and generation, knowledge graph and model routing. I am fortunate to be supervised by [Prof. Michael Witbrock](https://profiles.auckland.ac.nz/m-witbrock) in the Strong AI Lab (SAIL) at the University of Auckland and [Prof. Diana Benavides-Prado](https://dianabenavidesprado.github.io/) at Queen Mary University of London, United Kingdom.
 
 ## Education
 
