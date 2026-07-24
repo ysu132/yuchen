@@ -13,7 +13,7 @@ I'm a third-year Ph.D. student in the [School of Computer Science](https://www.a
 ## Education
 
 - **Doctor of Philosophy (Ph.D.) in Artificial Intelligence**, University of Auckland, New Zealand, Mar 2024–present
-- **Master of Science (M.Sc.) in Artificial Intelligence**, University of Essex, United Kingdom, Sep 2020–Nov 2021
+- **Master of Science (M.Sc.) in Artificial Intelligence**, University of Edinburgh, United Kingdom, Sep 2020–Nov 2021
   - Graduated with Distinction
 - **Bachelor of Engineering (B.Eng.) in Computer Science and Technology**, Hebei University of Technology, China, Sep 2016–Jul 2020
 
