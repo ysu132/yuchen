@@ -38,9 +38,17 @@ I'm a third-year Ph.D. student in the [School of Computer Science](https://www.a
 
 ## News
 
+- **July 2026** — Serving as a Teaching Assistant for **COMPSCI 367: Artificial Intelligence** at the University of Auckland.
+- **Jun 2026** — Joined [**One Route PTE. LTD. (OneRoute)**](https://1route.ai/) as a part-time **Technical Advisor**.
 - **Apr 2026** — Our paper, “[Separating Diagnosis from Control: Auditable Policy Adaptation in Agent-Based Simulations with LLM-Based Diagnostics](https://openreview.net/forum?id=ZDRKolsd1T),” was accepted to MABS 2026.
 - **Apr 2026** — Our paper, “[Relation-Aware Multimodal Analogical Reasoning with Modality Fingerprints and Adaptive Gating](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vRO9LyUAAAAJ&citation_for_view=vRO9LyUAAAAJ:Tyk-4Ss8FVUC),” was accepted to The ACM Web Conference (WWW) 2026.
-- **Nov 2025** — Our paper, “[Psychology-Driven Enhancement of Humour Translation]({{ site.baseurl }}/publication/2025-11-09-psychology-driven-humour-translation),” was accepted to ICONIP 2025.
-- **Nov 2025** — Our survey, “[A Survey of Pun Generation: Datasets, Evaluations and Methodologies]({{ site.baseurl }}/publication/2025-11-01-survey-of-pun-generation),” was accepted to Findings of EMNLP 2025.
 
 📧 Email: [your_email@aucklanduni.ac.nz](mailto:your_email@aucklanduni.ac.nz) / [Google Scholar](https://scholar.google.com/citations?user=vRO9LyUAAAAJ&hl=zh-CN) / [GitHub](https://github.com/ysu132) / [ORCID](https://orcid.org/) / [LinkedIn](https://www.linkedin.com/in/yuchen-su-9b0385240/)
+
+## Visitor Map
+
+<p style="text-align: center;">
+  <a href="https://s01.flagcounter.com/more/D6A">
+    <img src="https://s01.flagcounter.com/map/D6A/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Visitor locations by country or region">
+  </a>
+</p>
