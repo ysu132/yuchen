@@ -38,10 +38,10 @@ I'm a third-year Ph.D. student in the [School of Computer Science](https://www.a
 
 ## News
 
+- **Aug 2026** — Two of our papers were accepted to **EMNLP 2026**.
 - **July 2026** — Serving as a Teaching Assistant for **COMPSCI 367: Artificial Intelligence** at the University of Auckland.
 - **Jun 2026** — Joined [**One Route PTE. LTD. (OneRoute)**](https://1route.ai/) as a part-time **Technical Advisor**.
 - **Apr 2026** — Our paper, “[Separating Diagnosis from Control: Auditable Policy Adaptation in Agent-Based Simulations with LLM-Based Diagnostics](https://openreview.net/forum?id=ZDRKolsd1T),” was accepted to MABS 2026.
-- **Apr 2026** — Our paper, “[Relation-Aware Multimodal Analogical Reasoning with Modality Fingerprints and Adaptive Gating](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vRO9LyUAAAAJ&citation_for_view=vRO9LyUAAAAJ:Tyk-4Ss8FVUC),” was accepted to The ACM Web Conference (WWW) 2026.
 
 📧 Email: [your_email@aucklanduni.ac.nz](mailto:your_email@aucklanduni.ac.nz) / [Google Scholar](https://scholar.google.com/citations?user=vRO9LyUAAAAJ&hl=zh-CN) / [GitHub](https://github.com/ysu132) / [ORCID](https://orcid.org/) / [LinkedIn](https://www.linkedin.com/in/yuchen-su-9b0385240/)
 

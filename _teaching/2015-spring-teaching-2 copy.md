@@ -1,8 +1,9 @@
 ---
 title: "COMPSCI 110: Introduction to Computer Systems"
-collection: Teaching Assistant
+collection: teaching
 type: "Undergraduate course"
-date: 2026-01-01
-location: "City, Country"
+role: "TA"
+semester: "2026 Semester One"
+venue: "University of Auckland"
+date: 2026-03-01
 ---
-
