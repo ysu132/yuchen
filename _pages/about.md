@@ -23,7 +23,7 @@ I'm a third-year Ph.D. student in the [School of Computer Science](https://www.a
   - **Technical Advisor**, June 2026–present
 - **University of Auckland**, Auckland, New Zealand
   - **Graduate Teaching Assistant**, School of Computer Science, March 2025–present
-  - **Casual Research Assistant**, May 2024–Jan 2025
+  - **Casual Research Assistant**, May 2024–present
 - **Algorithm Engineer**, East China Institute of Computer Technology, Shanghai, China, Feb 2022–Mar 2024
 
 ## Awards
@@ -38,12 +38,12 @@ I'm a third-year Ph.D. student in the [School of Computer Science](https://www.a
 
 ## News
 
+- **Aug 2026** — Joined the University of Auckland’s **e-DIVA project** as a Research Assistant.
 - **Aug 2026** — Two of our papers were accepted to **EMNLP 2026**.
 - **July 2026** — Serving as a Teaching Assistant for **COMPSCI 367: Artificial Intelligence** at the University of Auckland.
 - **Jun 2026** — Joined [**One Route PTE. LTD. (OneRoute)**](https://1route.ai/) as a part-time **Technical Advisor**.
-- **Apr 2026** — Our paper, “[Separating Diagnosis from Control: Auditable Policy Adaptation in Agent-Based Simulations with LLM-Based Diagnostics](https://openreview.net/forum?id=ZDRKolsd1T),” was accepted to MABS 2026.
 
-📧 Email: [your_email@aucklanduni.ac.nz](mailto:your_email@aucklanduni.ac.nz) / [Google Scholar](https://scholar.google.com/citations?user=vRO9LyUAAAAJ&hl=zh-CN) / [GitHub](https://github.com/ysu132) / [ORCID](https://orcid.org/) / [LinkedIn](https://www.linkedin.com/in/yuchen-su-9b0385240/)
+📧 Email: [**yuchen.su@auckland.ac.nz**](mailto:yuchen.su@auckland.ac.nz) / [Google Scholar](https://scholar.google.com/citations?user=vRO9LyUAAAAJ&hl=zh-CN) / [GitHub](https://github.com/ysu132) / [ORCID](https://orcid.org/0009-0007-5287-4163) / [LinkedIn](https://www.linkedin.com/in/yuchen-su-9b0385240/)
 
 ## Visitor Map
 

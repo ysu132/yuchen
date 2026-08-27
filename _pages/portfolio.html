@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Project"
 permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
-
-
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  <section class="project-item">
+    <h2>{{ post.title }}</h2>
+    <p>{{ post.institution }}{% if post.period %}, {{ post.period }}{% endif %}</p>
+    {{ post.content }}
+  </section>
 {% endfor %}
-

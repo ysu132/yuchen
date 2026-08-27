@@ -5,32 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<style>
+  .publication-list {
+    margin: 2rem 0 0;
+    padding-left: 1.5rem;
+  }
 
-{% include base_path %}
+  .publication-list li {
+    margin-bottom: 1.25rem;
+    padding-left: 0.25rem;
+    font-size: 1rem;
+    line-height: 1.55;
+  }
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h4>{{ category[1].title }}</h4><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
+  .publication-list li:last-child {
+    margin-bottom: 0;
+  }
+</style>
+
+<ul class="publication-list">
+  {% assign publications = site.publications | sort: "date" | reverse %}
+  {% for post in publications %}
+    <li>{{ post.citation }}</li>
   {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+</ul>
