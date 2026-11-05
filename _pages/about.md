@@ -33,15 +33,20 @@ I'm a third-year Ph.D. student in the [School of Computer Science](https://www.a
 ## Service and Leadership
 
 - Journal reviewer: *Neurocomputing*.
-- Conference reviewer: SMC 2026 and IJCAI 2026.
+- Conference reviewer: SMC 2026, IJCAI 2026, and ICLR 2027.
 - Student co-organizer, 2025 Interdisciplinary Symposium on the Sustainable Development Goals, University of Auckland.
 
 ## News
 
+<div class="news-scroll" role="region" aria-label="News updates" tabindex="0" markdown="1">
+
+- **Oct 2026** — Gave a guest research talk on **AI Systems for Pun Understanding** at the **Technical University of Munich (TUM)**.
 - **Aug 2026** — Joined the University of Auckland’s **e-DIVA project** as a Research Assistant.
 - **Aug 2026** — Two of our papers were accepted to **EMNLP 2026**.
 - **July 2026** — Serving as a Teaching Assistant for **COMPSCI 367: Artificial Intelligence** at the University of Auckland.
 - **Jun 2026** — Joined [**One Route PTE. LTD. (OneRoute)**](https://1route.ai/) as a part-time **Technical Advisor**.
+
+</div>
 
 📧 Email: [**yuchen.su@auckland.ac.nz**](mailto:yuchen.su@auckland.ac.nz) / [Google Scholar](https://scholar.google.com/citations?user=vRO9LyUAAAAJ&hl=zh-CN) / [GitHub](https://github.com/ysu132) / [ORCID](https://orcid.org/0009-0007-5287-4163) / [LinkedIn](https://www.linkedin.com/in/yuchen-su-9b0385240/)
 
