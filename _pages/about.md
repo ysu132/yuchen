@@ -40,6 +40,7 @@ I'm a third-year Ph.D. student in the [School of Computer Science](https://www.a
 
 <div class="news-scroll" role="region" aria-label="News updates" tabindex="0" markdown="1">
 
+- **Nov 2026** — Our paper was accepted as a poster at the **KDD 2027 Datasets and Benchmarks Track**.
 - **Oct 2026** — Gave a guest research talk on **AI Systems for Pun Understanding** at the **Technical University of Munich (TUM)**.
 - **Aug 2026** — Joined the University of Auckland’s **e-DIVA project** as a Research Assistant.
 - **Aug 2026** — Two of our papers were accepted to **EMNLP 2026**.
